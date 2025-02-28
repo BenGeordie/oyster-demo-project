@@ -20,6 +20,7 @@
 
 # In[1]:
 
+import matplotlib
 
 # Import relevant functionality
 from langchain_anthropic import ChatAnthropic
